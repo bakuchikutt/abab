@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_season1"
+        android:title="Season 1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_season2"
+        android:title="Season 2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_season3"
+        android:title="Season 3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_season4"
+        android:title="Season 4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx1"
+        android:title="LX1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx2"
+        android:title="LX2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx3"
+        android:title="LX3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx4"
+        android:title="LX4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_ut1"
+        android:title="UT1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_ut2"
+        android:title="UT2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_ut3"
+        android:title="UT3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_a_rare1"
+        android:title="Aレア1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_a_rare2"
+        android:title="Aレア2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_a_rare3"
+        android:title="Aレア3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_a_rare4"
+        android:title="Aレア4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx_rare1"
+        android:title="LXレア1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx_rare2"
+        android:title="LXレア2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx_rare3"
+        android:title="LXレア3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lx_rare4"
+        android:title="LXレア4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_utb1"
+        android:title="UTB1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_utb2"
+        android:title="UTB2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_utb3"
+        android:title="UTB3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_st_seed"
+        android:title="ST_SEED"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_st_seed2"
+        android:title="ST_SEED2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_st_tekketsu"
+        android:title="ST_鉄血"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_bp_seed"
+        android:title="BP_SEED"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_pr"
+        android:title="PR"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_lokete"
+        android:title="ロケテ"
+        app:showAsAction="never" />
+</menu>
